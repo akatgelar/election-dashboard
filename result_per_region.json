@@ -1,0 +1,281 @@
+{
+    "success": true,
+    "message": "Get data sukses.",
+    "metadata": {
+        "nama_pilkada": "PILKADA 2020 - PROVINSI KALIMANTAN TENGAH",
+        "sumber": "Sumber: Poltracking Quick Count Pilkada 2020"
+    },
+    "last_update": "2020-12-09 20:09:54",
+    "data": {
+        "kode_wilayah": "62",
+        "nama_wilayah": "PROVINSI KALIMANTAN TENGAH",
+        "data_masuk_persen": 99.4,
+        "data_belummasuk_persen": 0.6,
+        "result": [
+            {
+                "no_urut": 1,
+                "nama_calon": "1.Ben Brahim S. Bahat \u2013 Ujang Iskandar",
+                "perolehan_persen": 49.57
+            },
+            {
+                "no_urut": 2,
+                "nama_calon": "2.Sugianto Sabran \u2013 Edy Pratowo",
+                "perolehan_persen": 50.43
+            }
+        ],
+        "result_per_region": [
+            {
+                "kode_wilayah": "6204",
+                "nama_wilayah": "KABUPATEN BARITO SELATAN",
+                "data_masuk_persen": 100.0,
+                "data_belummasuk_persen": 0.0,
+                "result": [
+                    {
+                        "no_urut": 1,
+                        "nama_calon": "1.Ben Brahim S. Bahat \u2013 Ujang Iskandar",
+                        "perolehan_persen": 53.85
+                    },
+                    {
+                        "no_urut": 2,
+                        "nama_calon": "2.Sugianto Sabran \u2013 Edy Pratowo",
+                        "perolehan_persen": 46.15
+                    }
+                ]
+            },
+            {
+                "kode_wilayah": "6212",
+                "nama_wilayah": "KABUPATEN BARITO TIMUR",
+                "data_masuk_persen": 100.0,
+                "data_belummasuk_persen": 0.0,
+                "result": [
+                    {
+                        "no_urut": 1,
+                        "nama_calon": "1.Ben Brahim S. Bahat \u2013 Ujang Iskandar",
+                        "perolehan_persen": 64.12
+                    },
+                    {
+                        "no_urut": 2,
+                        "nama_calon": "2.Sugianto Sabran \u2013 Edy Pratowo",
+                        "perolehan_persen": 35.88
+                    }
+                ]
+            },
+            {
+                "kode_wilayah": "6205",
+                "nama_wilayah": "KABUPATEN BARITO UTARA",
+                "data_masuk_persen": 96.43,
+                "data_belummasuk_persen": 3.57,
+                "result": [
+                    {
+                        "no_urut": 1,
+                        "nama_calon": "1.Ben Brahim S. Bahat \u2013 Ujang Iskandar",
+                        "perolehan_persen": 53.12
+                    },
+                    {
+                        "no_urut": 2,
+                        "nama_calon": "2.Sugianto Sabran \u2013 Edy Pratowo",
+                        "perolehan_persen": 46.88
+                    }
+                ]
+            },
+            {
+                "kode_wilayah": "6211",
+                "nama_wilayah": "KABUPATEN GUNUNG MAS",
+                "data_masuk_persen": 100.0,
+                "data_belummasuk_persen": 0.0,
+                "result": [
+                    {
+                        "no_urut": 1,
+                        "nama_calon": "1.Ben Brahim S. Bahat \u2013 Ujang Iskandar",
+                        "perolehan_persen": 81.85
+                    },
+                    {
+                        "no_urut": 2,
+                        "nama_calon": "2.Sugianto Sabran \u2013 Edy Pratowo",
+                        "perolehan_persen": 18.15
+                    }
+                ]
+            },
+            {
+                "kode_wilayah": "6203",
+                "nama_wilayah": "KABUPATEN KAPUAS",
+                "data_masuk_persen": 98.68,
+                "data_belummasuk_persen": 1.32,
+                "result": [
+                    {
+                        "no_urut": 1,
+                        "nama_calon": "1.Ben Brahim S. Bahat \u2013 Ujang Iskandar",
+                        "perolehan_persen": 52.44
+                    },
+                    {
+                        "no_urut": 2,
+                        "nama_calon": "2.Sugianto Sabran \u2013 Edy Pratowo",
+                        "perolehan_persen": 47.56
+                    }
+                ]
+            },
+            {
+                "kode_wilayah": "6209",
+                "nama_wilayah": "KABUPATEN KATINGAN",
+                "data_masuk_persen": 96.77,
+                "data_belummasuk_persen": 3.23,
+                "result": [
+                    {
+                        "no_urut": 1,
+                        "nama_calon": "1.Ben Brahim S. Bahat \u2013 Ujang Iskandar",
+                        "perolehan_persen": 55.49
+                    },
+                    {
+                        "no_urut": 2,
+                        "nama_calon": "2.Sugianto Sabran \u2013 Edy Pratowo",
+                        "perolehan_persen": 44.51
+                    }
+                ]
+            },
+            {
+                "kode_wilayah": "6271",
+                "nama_wilayah": "KOTA PALANGKA RAYA",
+                "data_masuk_persen": 100.0,
+                "data_belummasuk_persen": 0.0,
+                "result": [
+                    {
+                        "no_urut": 1,
+                        "nama_calon": "1.Ben Brahim S. Bahat \u2013 Ujang Iskandar",
+                        "perolehan_persen": 51.04
+                    },
+                    {
+                        "no_urut": 2,
+                        "nama_calon": "2.Sugianto Sabran \u2013 Edy Pratowo",
+                        "perolehan_persen": 48.96
+                    }
+                ]
+            },
+            {
+                "kode_wilayah": "6201",
+                "nama_wilayah": "KABUPATEN KOTAWARINGIN BARAT",
+                "data_masuk_persen": 100.0,
+                "data_belummasuk_persen": 0.0,
+                "result": [
+                    {
+                        "no_urut": 1,
+                        "nama_calon": "1.Ben Brahim S. Bahat \u2013 Ujang Iskandar",
+                        "perolehan_persen": 45.17
+                    },
+                    {
+                        "no_urut": 2,
+                        "nama_calon": "2.Sugianto Sabran \u2013 Edy Pratowo",
+                        "perolehan_persen": 54.83
+                    }
+                ]
+            },
+            {
+                "kode_wilayah": "6202",
+                "nama_wilayah": "KABUPATEN KOTAWARINGIN TIMUR",
+                "data_masuk_persen": 100.0,
+                "data_belummasuk_persen": 0.0,
+                "result": [
+                    {
+                        "no_urut": 1,
+                        "nama_calon": "1.Ben Brahim S. Bahat \u2013 Ujang Iskandar",
+                        "perolehan_persen": 46.97
+                    },
+                    {
+                        "no_urut": 2,
+                        "nama_calon": "2.Sugianto Sabran \u2013 Edy Pratowo",
+                        "perolehan_persen": 53.03
+                    }
+                ]
+            },
+            {
+                "kode_wilayah": "6207",
+                "nama_wilayah": "KABUPATEN LAMANDAU",
+                "data_masuk_persen": 100.0,
+                "data_belummasuk_persen": 0.0,
+                "result": [
+                    {
+                        "no_urut": 1,
+                        "nama_calon": "1.Ben Brahim S. Bahat \u2013 Ujang Iskandar",
+                        "perolehan_persen": 62.92
+                    },
+                    {
+                        "no_urut": 2,
+                        "nama_calon": "2.Sugianto Sabran \u2013 Edy Pratowo",
+                        "perolehan_persen": 37.08
+                    }
+                ]
+            },
+            {
+                "kode_wilayah": "6213",
+                "nama_wilayah": "KABUPATEN MURUNG RAYA",
+                "data_masuk_persen": 100.0,
+                "data_belummasuk_persen": 0.0,
+                "result": [
+                    {
+                        "no_urut": 1,
+                        "nama_calon": "1.Ben Brahim S. Bahat \u2013 Ujang Iskandar",
+                        "perolehan_persen": 33.19
+                    },
+                    {
+                        "no_urut": 2,
+                        "nama_calon": "2.Sugianto Sabran \u2013 Edy Pratowo",
+                        "perolehan_persen": 66.81
+                    }
+                ]
+            },
+            {
+                "kode_wilayah": "6210",
+                "nama_wilayah": "KABUPATEN PULANG PISAU",
+                "data_masuk_persen": 100.0,
+                "data_belummasuk_persen": 0.0,
+                "result": [
+                    {
+                        "no_urut": 1,
+                        "nama_calon": "1.Ben Brahim S. Bahat \u2013 Ujang Iskandar",
+                        "perolehan_persen": 38.51
+                    },
+                    {
+                        "no_urut": 2,
+                        "nama_calon": "2.Sugianto Sabran \u2013 Edy Pratowo",
+                        "perolehan_persen": 61.49
+                    }
+                ]
+            },
+            {
+                "kode_wilayah": "6208",
+                "nama_wilayah": "KABUPATEN SERUYAN",
+                "data_masuk_persen": 100.0,
+                "data_belummasuk_persen": 0.0,
+                "result": [
+                    {
+                        "no_urut": 1,
+                        "nama_calon": "1.Ben Brahim S. Bahat \u2013 Ujang Iskandar",
+                        "perolehan_persen": 24.61
+                    },
+                    {
+                        "no_urut": 2,
+                        "nama_calon": "2.Sugianto Sabran \u2013 Edy Pratowo",
+                        "perolehan_persen": 75.39
+                    }
+                ]
+            },
+            {
+                "kode_wilayah": "6206",
+                "nama_wilayah": "KABUPATEN SUKAMARA",
+                "data_masuk_persen": 100.0,
+                "data_belummasuk_persen": 0.0,
+                "result": [
+                    {
+                        "no_urut": 1,
+                        "nama_calon": "1.Ben Brahim S. Bahat \u2013 Ujang Iskandar",
+                        "perolehan_persen": 33.01
+                    },
+                    {
+                        "no_urut": 2,
+                        "nama_calon": "2.Sugianto Sabran \u2013 Edy Pratowo",
+                        "perolehan_persen": 66.99
+                    }
+                ]
+            }
+        ]
+    }
+}
